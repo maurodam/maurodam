@@ -1,7 +1,10 @@
 # 💫 About Me:
-👨🏻‍💻Attualmente sto lavorando a dei progetti di Project Management sviluppati in Angular e C#.
+Hi 👋🏻 
+I'am Damiano Mauro, 
+
+👨🏻‍💻I am currently working on project management projects developed in Angular and C# at a product company.
 <br>
-🌱 Sto ottimizzando le mie conoscenze su Angular, e sono interessato alla struttura di container.<br>
+🌱 I am optimizing my knowledge on Angular, and I am interested in container structure.<br>
 
 
 ## 🌐 Socials:
