@@ -1,23 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/D4D16AQG7lSs961ruJw/profile-displaybackgroundimage-shrink_350_1400/0/1703194984512?e=1709769600&v=beta&t=V2f5YM2504uf_CsiqaPRMl_tSYRlOkJaCqRp3X0DtJM"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/damianomauro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodam.maurodam&"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋🏻</h1>
 
 ###
